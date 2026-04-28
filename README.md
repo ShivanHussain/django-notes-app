@@ -6,7 +6,7 @@ This project supports REST APIs, environment-based configuration, and
 production-ready deployment using **Nginx**, **Docker Compose**, and
 **CI/CD (Jenkins)**.
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 ##  Features
 
@@ -18,7 +18,7 @@ production-ready deployment using **Nginx**, **Docker Compose**, and
 -   CI/CD pipeline using Jenkins
 -   Production-ready structure
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 
 ## Tech Stack
 
