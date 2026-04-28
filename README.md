@@ -128,7 +128,7 @@ python manage.py runserver
 -   Automated build & deployment supported
 -   Docker-based CI workflow
 
-------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 
 ##  Learning Outcomes
 
