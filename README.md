@@ -109,7 +109,7 @@ python manage.py collectstatic
 python manage.py runserver
 ```
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 ##  API Endpoints (Sample)
 
@@ -120,7 +120,7 @@ python manage.py runserver
   PUT      /api/notes/`<id>`{=html}/   Update note
   DELETE   /api/notes/`<id>`{=html}/   Delete note
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 ## CI/CD
 
@@ -128,7 +128,7 @@ python manage.py runserver
 -   Automated build & deployment supported
 -   Docker-based CI workflow
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 ##  Learning Outcomes
 
